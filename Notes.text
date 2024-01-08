@@ -1,0 +1,4 @@
+Steps:
+1. npm install
+2. Update version based on .NET version installed on computer: node-sass
+3. Search NPM for Plugins: react-dom, @types/react-dom, react-router-dom, react-icons, typescript, react-redux
